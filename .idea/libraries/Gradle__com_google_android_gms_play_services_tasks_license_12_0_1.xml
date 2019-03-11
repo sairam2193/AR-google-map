@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks-license-12.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/e5c7b74c6d3779b54f9b0108ac8f9e82/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.3/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/e5c7b74c6d3779b54f9b0108ac8f9e82/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
